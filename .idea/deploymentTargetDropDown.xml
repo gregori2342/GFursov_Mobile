@@ -5,6 +5,18 @@
       <entry key="app">
         <State />
       </entry>
+      <entry key="control_lesson1">
+        <State />
+      </entry>
+      <entry key="control_lesson2">
+        <State />
+      </entry>
+      <entry key="control_lesson3">
+        <State />
+      </entry>
+      <entry key="control_lesson4">
+        <State />
+      </entry>
     </value>
   </component>
 </project>
