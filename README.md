@@ -5,3 +5,5 @@
 # Practice 5 -
 # Practice 6 -
 # Practice 7 -
+# Practice 8-
+# Mirea_project -https://github.com/gregori2342/GFursov_Mobile_MireaProject.git
